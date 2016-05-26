@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Conversor de Medidas</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--Tela de Início-->
+    <string name="produto">Produto</string>
+    <string name="medida">Medida</string>
+    <string name="resultado">Resultado:</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="converter">Converter</string>
+
+</resources>
